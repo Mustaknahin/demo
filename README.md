@@ -1,4 +1,4 @@
 # demo
-This is my first git repository.
+This is my very first git repository.
 <br>
 Author - MD. Mustak Shahriar Khan
